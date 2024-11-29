@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "142536",
+    "database": "invent_case",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
